@@ -9,11 +9,11 @@ source-repository-package
 source-repository-package
     type: git
     location: https://github.com/swamp-agr/servant.git
-    tag: e66e2dda3998499290e63a121a273d603fd51b1f
+    tag: 0247f78665a71932b90c9eccf52bbfebf8df52df
     subdir: servant
 
 source-repository-package
     type: git
     location: https://github.com/swamp-agr/servant.git
-    tag: e66e2dda3998499290e63a121a273d603fd51b1f
+    tag: 0247f78665a71932b90c9eccf52bbfebf8df52df
     subdir: servant-server
